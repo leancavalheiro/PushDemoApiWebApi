@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushDemoApi", "PushDemoApi.csproj", "{6E45C98C-2669-421D-A567-438C9C30755C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E45C98C-2669-421D-A567-438C9C30755C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E45C98C-2669-421D-A567-438C9C30755C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E45C98C-2669-421D-A567-438C9C30755C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E45C98C-2669-421D-A567-438C9C30755C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0EA7178-09D4-4AFF-B0B0-324A9A2B858E}
+	EndGlobalSection
+EndGlobal
